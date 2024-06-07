@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/SignalR.WebSocket.Demo.props" />
+</Project>

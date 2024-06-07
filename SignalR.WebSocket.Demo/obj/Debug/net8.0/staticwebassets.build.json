@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+wQChf9JMsJOzRTH/vw4xdXSe/fa+jVlmdTbIDMlny8=",
+  "Source": "SignalR.WebSocket.Demo",
+  "BasePath": "_content/SignalR.WebSocket.Demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
